@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Harshita aka rharhsitaaa21</h1>
+<h1 align="center">Hi 👋, I'm Harshitaa aka rharhsitaaa21</h1>
 <h3 align="center">I'm a final year student reading my bachelors in Information Technology. I am a flutter developer, presently exploring the domains of backend development. Apart from coding, I love building products from scratch.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
